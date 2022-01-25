@@ -1,10 +1,10 @@
 # Hi there, I'm Abdukhalim 👋
 
-### I'm a full-stack web Developer and a student👨‍🎓!!
+### I'm a full-stack web Developer!!
 
-- 🌱 I’m currently learning backend!
+- 🌱 I’m currently learning backend👨‍🎓
 - ✔ I knew JS, Bootstrap, React.js, HTML, CSS, Node.js, express.js, express ejs, express.io
-- 🥅 2022 Goals: Contribute more to Open Source projects and being junior developer
+- 🥅 2022 Goals: Contribute more to Open Source projects and being a junior developer
 - ⚡ Fun fact: I love sport 🏅
 
 ### Connect with me:
