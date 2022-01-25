@@ -1,13 +1,15 @@
-# Hi there, I'm Abdukhalim 👋
+# Hi there, I'm **Abdukhalim** 👋
 
-### I'm a full-stack web Developer!!
+## I'm a full-stack *web Developer*👨‍💻
 
-- 🌱 I’m currently learning backend👨‍🎓
-- ✔ I knew JS, Bootstrap, React.js, HTML, CSS, Node.js, express.js, express ejs, express.io
-- 🥅 2022 Goals: Contribute more to Open Source projects and being a junior developer
-- ⚡ Fun fact: I love sport 🏅
+- 🌱 Currently I’m learning backend👨‍🎓
+- ✔ I knew HTML, CSS, Javascript, Bootstrap, React.js, Node.js, express.js, express ejs, express.io
+- 🥅 2022 Goals: Contribute more to Open Source projects and being a senior web developer
+- ⚡ Fun fact: I love Judo 🥋
 
 ### Connect with me:
+
+<br />
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
