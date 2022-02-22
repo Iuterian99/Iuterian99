@@ -2,7 +2,7 @@
 
 ## I'm a full-stack *web Developer*👨‍💻
 
-- 🌱 Currently I’m learning Database👨‍🎓
+- 🌱 Currently I’m learning Database(Postgres)👨‍🎓
 - ✔ I know HTML, CSS, Javascript, Bootstrap, React.js, Node.js, express.js, express ejs, socket.io
 - 🥅 2022 Goals: Contribute more to Open Source projects and being a senior web developer
 - ⚡ Fun fact: I love Judo 🥋
