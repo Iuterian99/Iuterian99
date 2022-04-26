@@ -1,10 +1,10 @@
 # Hi there, I'm **Abdukhalim** 👋
 
-## I'm a full-stack *web Developer*👨‍💻
+## I'm a Front-end *web Developer*👨‍💻
 
-- 🌱 Currently I’m learning Database(Postgres)👨‍🎓
-- ✔ I know HTML, CSS, Javascript, Bootstrap, React.js, Node.js, express.js, express ejs, socket.io
-- 🥅 2022 Goals: Contribute more to Open Source projects and being a senior web developer
+- 🌱 Currently I’m Junior👨‍🎓
+- ✔ I know HTML, CSS, Javascript, Bootstrap, React.js, express.js, express ejs, Postgres, MongoDb
+- 🥅 2022 Goals: Contribute more to Open Source projects and being a Middle web developer
 - ⚡ Fun fact: I love Judo 🥋
 
 ### Connect with me:
