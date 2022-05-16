@@ -5,7 +5,7 @@
 - 🌱 Currently I’m Junior👨‍🎓
 - ✔ I know HTML, CSS, Javascript, Bootstrap, React.js, express.js, express ejs, Postgres, MongoDb
 - 🥅 2022 Goals: Contribute more to Open Source projects and being a Middle web developer
-- ⚡ Fun fact: I love Judo 🥋
+- ⚡ Fun fact: I love Wrestling 🥋
 
 ### Connect with me:
 
